@@ -36,7 +36,7 @@ SO_LONG
 The project is 2D game. You can use makefile with bonus or without bonus. 
 The project use mlx library and my libft and my get_next_line.
 
-Compile expanse
+Compile example
 
 	./so_long_bonus ./maps/big.ber
 
