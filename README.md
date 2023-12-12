@@ -43,3 +43,9 @@ Compile example
 PHİLO
 
 İn this project we solved the famous philosophers problem.
+
+MİNİSHELL
+
+Compile and fun :)
+
+./minishell
